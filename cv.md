@@ -1,6 +1,6 @@
 # Sardana Egomina
 
-## Contacts
+## Contacts 
 
 **Email:** [saregimina@gmail.com](mailto:saregimina@gmail.com)
 **GitHub:** qwindon
