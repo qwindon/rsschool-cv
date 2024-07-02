@@ -1,1 +1,1 @@
-https://qwindon.github.io/rsschool-cv/cv
+https://qwindon.github.io/rsschool-cv/
